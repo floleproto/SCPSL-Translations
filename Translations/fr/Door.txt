@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>FERME</color>
+<color=#00ee00FF>OUVERTE</color>
+<color=#FF7800FF>DEPLACEMENT</color>
+<color=#ee0000FF>REFUSE</color>
+<color=#ee0000FF>VEROUILLE</color>
+<color=#00C0eeFF>CARTE NECESSAIRE</color>
+<color=#00ee00FF>ACCES AUTORISE</color>
+<color=#ee0000>ACCES REFUSE</color>
+<color=#ee7900FF>PASSEZ</color>
+<color=#00ee00FF>EVACUEZ</color>
+<color=#ee7900FF>FERMETURE</color>

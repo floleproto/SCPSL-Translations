@@ -34,3 +34,7 @@ Vous vous êtes échappé en [escape_minutes] minutes et [escape_seconds] second
 Attendez [time] pour pouvoir réutiliser [item].
 APPUYEZ SUR <color=white><b>F1</b></color> POUR PLUS D'INFORMATIONS
 Vous avez été menotté\n<size=40>suivez les ordres ou demandez de l'aide à vos coéquipiers</size>
+Vous avez été recapturé par la NTF.\nGrâce à vous, ils auront plus de chance de reprendre le contrôle du site.
+Vous avez été emprisonné par l'IC.\nVos connaissances pourront leur servir.
+LE ROUND COMMENCE DANS : <color=yellow>{0}</color>s
+LE COMPTE A REBOURS EST\n EN <color=#FF5050>PAUSE</color>
